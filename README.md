@@ -2,8 +2,10 @@
   Esse projeto é um aplicativo android nativo que foi desenvolvido na linguagem kotlin, como o objetivo de fazer o calculo de IMC e exibir o resultado na tela.
 
 ## :camera_flash: Screenshots
-<img src="https://github.com/Lucasc0013/CalculadoraIMC/assets/133276726/332d6b2b-b7cd-44a7-af4f-7a7a9a9cf9e0" width=260/> 
-<img src="https://github.com/Lucasc0013/CalculadoraIMC/assets/133276726/3bff0dc9-f817-4434-990e-b7262bcb76ce" width=260/>
+<img src="https://github.com/Lucasc0013/CalculadoraIMC/assets/133276726/286aaa94-98c6-4353-8059-99c83b6f365e" width=260/> 
+<img src="https://github.com/Lucasc0013/CalculadoraIMC/assets/133276726/ef327a3c-2e83-43c5-aaf0-741bd2a485f5" width=260/>
+
+
 
 
 
