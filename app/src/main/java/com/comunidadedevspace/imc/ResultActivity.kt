@@ -1,5 +1,6 @@
 package com.comunidadedevspace.imc
 
+import android.graphics.Color
 import android.os.Bundle
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
@@ -22,7 +23,7 @@ class ResultActivity : AppCompatActivity() {
 
         tvResult.text = result.toString()
         val classificacao: String = if (result <= 18.5f) {
-            "MAGREZA"
+             "MAGREZA"
         } else if (result > 18.5f && result <= 24.9f) {
             "NORMAL"
         } else if (result > 25f && result <= 29.9f) {
